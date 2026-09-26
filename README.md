@@ -1,6 +1,6 @@
 # Computer Vision Lab Tasks
 
-**Student Name:** Zubair Ali Lashari
+
 **Roll Number:** 2024/AIE/74
 **University:** University of Sindh
 **Program:** BS AI
