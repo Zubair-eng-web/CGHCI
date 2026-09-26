@@ -4,6 +4,7 @@
 **Roll Number:** 2024/AIE/74
 **Program:** BS Artificial Intelligence
 **University:** University of Sindh
+**Instructor:** Rajesh Kumar
 
 ## Lab Tasks
 
@@ -12,7 +13,7 @@ This repository contains my Computer Vision laboratory tasks and exercises.
 ### Week 1
 
 * Image loading and manipulation
-* Image format and basic processing exercises
+* Basic image processing exercises
 
 ### Week 2
 
@@ -20,7 +21,7 @@ This repository contains my Computer Vision laboratory tasks and exercises.
 * Lossless image compression
 * OpenCV image manipulation
 
-### Technologies Used
+## Technologies Used
 
 * Python
 * OpenCV
@@ -30,4 +31,4 @@ This repository contains my Computer Vision laboratory tasks and exercises.
 ## Author
 
 **Zubair Ali Lashari**
-Roll No: **2024/AIE/74**
+**Roll Number:** 2024/AIE/74
