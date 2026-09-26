@@ -2,8 +2,8 @@
 
 **Student Name:** Zubair Ali Lashari
 **Roll Number:** 2024/AIE/74
-**Program:** BS Artificial Intelligence
 **University:** University of Sindh
+**Program:** BS AI
 **Instructor:** Rajesh Kumar
 
 ## Lab Tasks
