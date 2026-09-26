@@ -10,10 +10,7 @@
 
 This repository contains my Computer Vision laboratory tasks and exercises.
 
-### Week 1
 
-* Image loading and manipulation
-* Basic image processing exercises
 
 ### Week 2
 
